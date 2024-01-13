@@ -7,7 +7,8 @@ Foi aplicado 3 tipos de modelo para encontrar a melhor performance em comparaç�
  - Randon Forest;
  - Tuned Randon Forest.
 
-<img src="https://github.com/michelmartinss/Prevendo_Churn/assets/31022049/627ef329-0432-4eab-835e-dfac0ce6c578" width="800">
+<img src="https://github.com/michelmartinss/Prevendo_Churn/assets/31022049/627ef329-0432-4eab-835e-dfac0ce6c578" width="800">    
+
 
 
 Análise adotada, utiliza a metodologia CRISP DM - Cross Industry Standard Process for Data Mining.    
