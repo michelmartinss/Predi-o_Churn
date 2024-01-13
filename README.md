@@ -9,7 +9,7 @@ Foi aplicado 3 tipos de modelos para encontrar a melhor performance em comparaç
 
 <img src="https://github.com/michelmartinss/Prevendo_Churn/assets/31022049/0c6680e7-113c-44b7-bcba-143e3b3bbaa7" width="800"><br>
 
-O Modelo que melhor apresentou performance foi o Random Forest, segue suas métricas:
+O Modelo que melhor apresentou performance foi o **Random Forest**, segue suas métricas:
  - **Acurácia:** De todas as previsões feitas pelo modelo, cerca de 82.96% são corretas;
  - **Precisão:** Quando o modelo prevê que um cliente vai cancelar a assinatura, ele está correto cerca de 68.02% das vezes;
  - **Recall:** O modelo é capaz de identificar corretamente cerca de 23.53% dos clientes que realmente cancelam a assinatura;
