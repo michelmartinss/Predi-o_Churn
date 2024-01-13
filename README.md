@@ -7,8 +7,7 @@ Foi aplicado 3 tipos de modelo para encontrar a melhor performance em comparaç�
  - Randon Forest;
  - Tuned Randon Forest.
 
-<img src="https://github.com/michelmartinss/Prevendo_Churn/assets/31022049/0c6680e7-113c-44b7-bcba-143e3b3bbaa7" width="800">     
-
+<img src="https://github.com/michelmartinss/Prevendo_Churn/assets/31022049/0c6680e7-113c-44b7-bcba-143e3b3bbaa7" width="800"><br>
 
 O Modelo que melhor apresentou performance foi o Random Forest, segue suas métricas:
  - **Acurácia:** De todas as previsões feitas pelo modelo, cerca de 82.96% são corretas.
