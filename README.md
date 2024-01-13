@@ -7,7 +7,7 @@ Foi aplicado 3 tipos de modelo para encontrar a melhor performance em compara√ß√
  - Randon Forest;
  - Tuned Randon Forest.
 
-<img src="https://github.com/michelmartinss/Prevendo_Churn/assets/31022049/627ef329-0432-4eab-835e-dfac0ce6c578" width="800">    
+<img src="https://github.com/michelmartinss/Prevendo_Churn/assets/31022049/0c6680e7-113c-44b7-bcba-143e3b3bbaa7" width="800">    
 
 
 
