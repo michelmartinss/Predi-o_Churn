@@ -1,4 +1,4 @@
-# Predivendo o Churn
+# Prevendo o Churn
 Prevendo os usuários com alta chance de deixar Streaming
 
 A analise tem como objetivo, identificar um modelo de classificação capaz de prever se o cliente irá cancelar o serviço ou não, levando em consideração o seu perfil no streaming.
