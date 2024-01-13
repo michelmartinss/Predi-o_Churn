@@ -1,7 +1,7 @@
-# Predi-o_Churn
+# Predivendo o Churn
 Prevendo os usuários com alta chance de deixar Streaming
 
-Identificar um modelo de classificação capaz de prever se o cliente irá cancelar o serviço ou não, levando em consideração o seu perfil no streaming.
+A analise tem como objetivo, identificar um modelo de classificação capaz de prever se o cliente irá cancelar o serviço ou não, levando em consideração o seu perfil no streaming.
 Foi aplicado 3 tipos de modelo para encontrar a melhor performance em comparação com um baseline. 
  - Logistic Regression;
  - Randon Forest;
